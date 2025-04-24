@@ -1,6 +1,6 @@
 # FramePack-eichi
 
-A pinokio script for https://github.com/ai-anchorite/FramePack-eichi.git
+A pinokio script for https://github.com/ai-anchorite/FramePack-eichi-p.git
 
 Which is an English translated (and tweaked) version of:
 https://github.com/git-ai-code/FramePack-eichi
