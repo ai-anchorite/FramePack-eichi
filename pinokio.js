@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.7",
-  title: "FramePack-fusion",
+  title: "FramePack-eichi",
   description: "[NVIDIA only] FramePack with first/last input + keyframes. built on: https://github.com/git-ai-code/FramePack-eichi",
   icon: "icon.png",
   menu: async (kernel, info) => {
