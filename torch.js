@@ -1,7 +1,7 @@
 module.exports = {
   run: [
     // requires NVIDIA GPU        
-      {
+     {
       when: "{{gpu !== 'nvidia'}}",
       method: "notify",
       params: {
