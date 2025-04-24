@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/ai-anchorite/FramePack-eichi.git app",
+          "git clone https://github.com/ai-anchorite/FramePack-eichi-p.git app",
         ]
       }
     },
