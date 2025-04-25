@@ -11,3 +11,6 @@ https://github.com/nirvash/FramePack
 which is built on: 
 https://github.com/lllyasviel/FramePack 
 
+
+* If you like it, click the link and give git-ai-codes a star!
+
