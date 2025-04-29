@@ -8,7 +8,7 @@ module.exports = {
         env: { },                   // Edit this to customize environment variables (see documentation)
         path: "app",                // Edit this to customize the path to start the shell from
         message: [
-          "python endframe_ichi.py --server 127.0.0.1",  // Edit with your custom commands
+          "python endframe_ichi.py --server 127.0.0.1 --lang en",  // Edit with your custom commands
         ],
         on: [{
           // The regular expression pattern to monitor.
